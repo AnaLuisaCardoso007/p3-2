@@ -1,7 +1,7 @@
 :root{ /*cria variáveis*/
 /*para declarar a variável basta digitar a função var() e dentro dos parênteses coloca o nome de variável criada*/
     --cor-fundo: #1288f0;
-    --cor-principal: #0B0D20;
+    --cor-principal: #1ac4ee;
     --cor-secundaria: #212333;
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
