@@ -6,67 +6,132 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Suas amizades são normalmente caracterizadas por serem:",
         alternativas: [
             {
-                texto: "Texto 1.1",
+                texto: "Intensas e cheias de emoção",
                 afirmacao: "Afirmação 1.1"
             },
             {
-                texto: "Texto 1.2",
+                texto: "Estáveis e baseadas na confiança",
                 afirmacao: "Afirmação 1.2"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Em situações estressantes, você costuma:",
         alternativas: [
             {
-                texto: "Texto 2.1",
+                texto: "Expressar seus sentimentos abertamente",
                 afirmacao: "Afirmação 2.1"
             },
             {
-                texto: "Texto 2.2",
+                texto: "Lidar com seus sentimentos de forma mais reservada",
                 afirmacao: "Afirmação 2.2"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Quando está em um grupo social, você geralmente:",
         alternativas: [
             {
-                texto: "Texto 3.1",
+                texto: "Gosta de conversas animadas e participa ativamente ",
                 afirmacao: "Afirmação 3.1"
             },
             {
-                texto: "Texto 3.2",
+                texto: "Prefere ouvir e observar antes de contribuir ",
                 afirmacao: "Afirmação 3.2"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Quando se trata de expressar afeto, você tende a ser mais:",
         alternativas: [
             {
-                texto: "Texto 4.1",
+                texto: "Expressivo(a) e demonstrativo(a)",
                 afirmacao: "Afirmação 4.1"
             },
             {
-                texto: "Texto 4.2",
+                texto: "Reservado(a) e sutil",
                 afirmacao: "Afirmação 4.2"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Durante uma discussão, você tende a:",
         alternativas: [
             {
-                texto: "Texto 5.1",
+                texto: "Expressar suas opiniões de forma apaixonada",
                 afirmacao: "Afirmação 5.1"
             },
             {
-                texto: "Texto 5.2",
+                texto: "Manter a calma e ouvir os outros antes de responder ",
                 afirmacao: "Afirmação 5.2"
+            }
+        ]
+    },
+    {
+        enunciado: "Durante uma discussão, você tende a:",
+        alternativas: [
+            {
+                texto: "Expressar suas opiniões de forma apaixonada",
+                afirmacao: "Afirmação 6.1"
+            },
+            {
+                texto: "Manter a calma e ouvir os outros antes de responder ",
+                afirmacao: "Afirmação 6.2"
+            }
+        ]
+    },
+    {
+        enunciado: "Durante uma discussão, você tende a:",
+        alternativas: [
+            {
+                texto: "Expressar suas opiniões de forma apaixonada",
+                afirmacao: "Afirmação 6.1"
+            },
+            {
+                texto: "Manter a calma e ouvir os outros antes de responder ",
+                afirmacao: "Afirmação 6.2"
+            }
+        ]
+    },
+    {
+        enunciado: "Durante uma discussão, você tende a:",
+        alternativas: [
+            {
+                texto: "Expressar suas opiniões de forma apaixonada",
+                afirmacao: "Afirmação 6.1"
+            },
+            {
+                texto: "Manter a calma e ouvir os outros antes de responder ",
+                afirmacao: "Afirmação 6.2"
+            }
+        ]
+    },
+    {
+        enunciado: "Durante uma discussão, você tende a:",
+        alternativas: [
+            {
+                texto: "Expressar suas opiniões de forma apaixonada",
+                afirmacao: "Afirmação 6.1"
+            },
+            {
+                texto: "Manter a calma e ouvir os outros antes de responder ",
+                afirmacao: "Afirmação 6.2"
+            }
+        ]
+    },
+    {
+        enunciado: "Durante uma discussão, você tende a:",
+        alternativas: [
+            {
+                texto: "Expressar suas opiniões de forma apaixonada",
+                afirmacao: "Afirmação 6.1"
+            },
+            {
+                texto: "Manter a calma e ouvir os outros antes de responder ",
+                afirmacao: "Afirmação 6.2"
             }
         ]
     },
