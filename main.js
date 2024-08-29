@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Intensas e cheias de emoção",
-                afirmacao: "Afirmação 1.1"
+                afirmacao: "Você"
             },
             {
                 texto: "Estáveis e baseadas na confiança",
-                afirmacao: "Afirmação 1.2"
+                afirmacao: "Você"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Expressar seus sentimentos abertamente",
-                afirmacao: "Afirmação 2.1"
+                afirmacao: "tem"
             },
             {
                 texto: "Lidar com seus sentimentos de forma mais reservada",
-                afirmacao: "Afirmação 2.2"
+                afirmacao: "tem"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Gosta de conversas animadas e participa ativamente ",
-                afirmacao: "Afirmação 3.1"
+                afirmacao: "uma"
             },
             {
                 texto: "Prefere ouvir e observar antes de contribuir ",
-                afirmacao: "Afirmação 3.2"
+                afirmacao: "uma"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Expressivo(a) e demonstrativo(a)",
-                afirmacao: "Afirmação 4.1"
+                afirmacao: "personalidade mais"
             },
             {
                 texto: "Reservado(a) e sutil",
-                afirmacao: "Afirmação 4.2"
+                afirmacao: "personalidade mais"
             }
         ]
     },
@@ -62,76 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 5.1"
+                afirmacao: "expressiva"
             },
             {
                 texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 5.2"
-            }
-        ]
-    },
-    {
-        enunciado: "Durante uma discussão, você tende a:",
-        alternativas: [
-            {
-                texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 6.1"
-            },
-            {
-                texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 6.2"
-            }
-        ]
-    },
-    {
-        enunciado: "Durante uma discussão, você tende a:",
-        alternativas: [
-            {
-                texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 6.1"
-            },
-            {
-                texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 6.2"
-            }
-        ]
-    },
-    {
-        enunciado: "Durante uma discussão, você tende a:",
-        alternativas: [
-            {
-                texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 6.1"
-            },
-            {
-                texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 6.2"
-            }
-        ]
-    },
-    {
-        enunciado: "Durante uma discussão, você tende a:",
-        alternativas: [
-            {
-                texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 6.1"
-            },
-            {
-                texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 6.2"
-            }
-        ]
-    },
-    {
-        enunciado: "Durante uma discussão, você tende a:",
-        alternativas: [
-            {
-                texto: "Expressar suas opiniões de forma apaixonada",
-                afirmacao: "Afirmação 6.1"
-            },
-            {
-                texto: "Manter a calma e ouvir os outros antes de responder ",
-                afirmacao: "Afirmação 6.2"
+                afirmacao: "reflexiva"
             }
         ]
     },
